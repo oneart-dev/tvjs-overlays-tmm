@@ -1,5 +1,5 @@
 {
-  "name": "tvjs-overlays",
+  "name": "tvjs-overlays-tmm",
   "version": "0.5.0",
   "description": "Overlay pack for trading-vue-js",
   "main": "./dist/tvjs-overlays.js",
@@ -56,7 +56,7 @@
   "dependencies": {
     "@babel/runtime": "^7.14.6",
     "@vue/compiler-sfc": "^3.1.4",
-    "trading-vue-js": "^1.0.2",
+    "trading-vue-js-tmm": "https://github.com/oneart-dev/trading-vue-js#master",
     "vue": "^2.6.14"
   }
 }
